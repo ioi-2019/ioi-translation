@@ -9,7 +9,8 @@ This fork, used in IOI 2019 Baku.
 
 Features
 --------
-* [NEW] Merge task PDFs into ONE signle PDF for easy printing in order
+* [NEW] Merge task PDFs into ONE signle PDF for easy printing in order 
+*(P.S. For "notice" pdf, make sure you give different names per days when creating tasks, such as "notice1" and "notice2".)*
 * [NEW] Interface for choosing up to TWO additional translation language copies
 * [NEW] Easy watch monitor for printing status
 * Markdown editor with mathematical expressions support
