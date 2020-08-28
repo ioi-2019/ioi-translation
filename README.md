@@ -9,7 +9,9 @@ This fork, used in IOI 2019 Baku.
 
 Features
 --------
-
+* [NEW] Merge task PDFs into ONE signle PDF for easy printing in order
+* [NEW] Interface for choosing up to TWO additional translation language copies
+* [NEW] Easy watch monitor for printing status
 * Markdown editor with mathematical expressions support
 * Support for right-to-left and southeastern languages
 * Embedded printing system
